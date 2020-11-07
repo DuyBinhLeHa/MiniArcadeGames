@@ -1,0 +1,105 @@
+body {
+    background-image: url("card-base.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#main {
+	height: 712px;
+    width: 900px;
+    margin: 0 auto;
+    border-radius: 10px;	
+    position: relative;
+    box-shadow: 10px 10px 30px 5px grey;
+}
+
+h1 {
+	text-align: center;
+	padding: 20px;
+}
+
+#group { 
+	margin-left: 1%;
+}
+
+#coinbets {
+	margin-left: 10px;
+    width: 97px;
+}
+
+.play {
+	margin-left: 10px;
+}
+
+#radio1 {
+	margin-left: 330px;
+}
+
+#radio2 {
+	margin-left: 90px;
+}
+
+#radio3 {
+	margin-left: 90px;
+}
+
+#radio4 {
+	margin-left: 90px;
+}
+
+.yw {
+	margin-left: 25px;
+	color: green;
+}
+
+.yl {
+	margin-left: 25px;
+	color: red; 
+}
+
+#p1 {
+	float:left;
+	margin-left: 282px;
+	height: 120px; 
+	width: 100px;
+}
+
+#p2 {
+	float:left;
+	margin-left: 18px;
+	height: 120px; 
+	width: 100px;
+}
+
+#p3 {
+	float:left;
+	margin-left: 18px;
+	height: 120px; 
+	width: 100px;
+}
+
+#p4 {
+	float:left;
+	margin-left: 18px;
+	height: 120px; 
+	width: 100px;
+}
+
+#info {
+	border: 1px solid red;
+	border-left: 6px solid red;
+	border-right: 6px solid red;
+	height: 144px;
+    width: 278px;
+	margin: 5px;
+	padding: 10px;
+}
+
+#img-coin {
+	width: 22px;
+	float: left;
+	padding-right: 5px;
+}
